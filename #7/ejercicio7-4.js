@@ -1,7 +1,7 @@
 
 let numero = 47;
 do {
-    let n1 = prompt("Ingrese un número para terminar ingrese 0", "número");
+    let n1 = prompt("Ingrese un número; para terminar ingrese 0", "número");
     let x = parseInt(n1);
 
     if (x === 0) {
